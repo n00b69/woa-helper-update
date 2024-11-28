@@ -1,2 +1,1 @@
-# woa-helper-update
-Repo for updating the WOA Helper app
+1.8.4
