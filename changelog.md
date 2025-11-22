@@ -1,5 +1,4 @@
 
 CHANGELOG:
-- placeholder
-- Replaced Java with Kotlin.
-- placeholder
+
+- Fix annoying "No update" dialog
