@@ -1,7 +1,5 @@
 
 CHANGELOG:
 
-- Fix QS crash for KSU-N users
-- Fix shell issues for KSU-N users
-- HHHH
-- idk
+- this is the debug apk, there are no changes
+- this message only exists to test the update dialog

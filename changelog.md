@@ -1,7 +1,6 @@
 
 CHANGELOG:
 
-- Fix Quick Settings crash for KSU-N users
-- Reworked updater mechanic to prevent app freezing when trying to update for some geoblocked countries
-- Add DBKP uninstall & reinstall feature
-- App is no longer considered beta
+- Add setenforce 0 option in preferences for mounting Windows (needed on some devices/ROMs)
+- Rewrite UI code and fix tablet layouts
+- Fix widgets
